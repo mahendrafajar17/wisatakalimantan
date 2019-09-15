@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Wisata Kalimantan</string>
+    <string name="item_name">Nama Wisata</string>
+    <string name="item_details">Detail Wisata</string>
+    <string name="sumber">Sumber : Shopback Indonesia</string>
+    <string name="tentang">Tentang</string>
+    <string name="nama">Mahendra Fajar</string>
+    <string name="bergabung">Bergabung dicoding sejak 07 Juli 2018</string>
+    <string name="tinggal">Tinggal di Semarang, Jawa Tengah</string>
+    <string name="asal">Asal Sampit, Kalimantan Tengah</string>
+    <string name="email">mahendrafajar17@gmail.com</string>
+</resources>
